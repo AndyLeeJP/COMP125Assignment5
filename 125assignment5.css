@@ -1,0 +1,27 @@
+#allPage{
+    padding:2px;
+    border-style:solid;
+    width:980px;
+    margin-right:auto;
+    margin-left:auto;
+    background-color:rgb(0, 0, 0);
+    padding-left:5px;
+    font-variant:small-caps;
+    text-transform:capitalize;
+}
+
+h1{
+    color:#fff;
+    background-color:#000;
+    padding-left:5px;
+    font-variant:small-caps;
+    text-transform:capitalize
+}
+
+body{
+    font-family:segoe ui,Tahoma,Geneva,Verdana,sans-serif;
+    color:#000;
+    background-color:#000
+}
+
+
